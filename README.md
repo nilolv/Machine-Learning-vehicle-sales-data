@@ -1,7 +1,7 @@
 
 # Araç Satış Verisi Analizi
 
-Bu depo, araç satış verilerini çeşitli makine öğrenimi algoritmaları kullanarak kapsamlı bir şekilde analiz etmektedir. Bu projede kullanılan veri seti [Kaggle](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data) kaynağından alınmıştır.Burdanulaşabilirsiniz
+Bu depo, araç satış verilerini çeşitli makine öğrenimi algoritmaları kullanarak kapsamlı bir şekilde analiz etmektedir. Bu projede kullanılan veri seti [Kaggle](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data) kaynağından alınmıştır.Burdan ulaşabilirsiniz
 
 
 
